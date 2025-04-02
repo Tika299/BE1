@@ -1,0 +1,24 @@
+<tr>
+								<td>EXP Portable Hard Drive</td>
+								<td>USB02</td>
+								<td style="text-align:right;">1</td>
+								<td style="text-align:right;">800.00</td>
+								<td style="text-align:right;">800.00</td>
+								<td style="text-align:center;"><a href="#" class=""><i class="bi bi-trash"></i></a></td>
+							</tr>
+                            <tr>
+								<td>FinePix Pro2 3D Camera</td>
+								<td>3DcAM01</td>
+								<td style="text-align:right;">1</td>
+								<td style="text-align:right;">1500.00</td>
+								<td style="text-align:right;">1,500.00</td>
+								<td style="text-align:center;"><a href="#" class=""><i class="bi bi-trash"></i></a></td>
+							</tr>
+                            <tr>
+								<td>Luxury Ultra thin Wrist Watch</td>
+								<td>wristWear03</td>
+								<td style="text-align:right;">2</td>
+								<td style="text-align:right;">300.00</td>
+								<td style="text-align:right;">600.00</td>
+								<td style="text-align:center;"><a href="#" class=""><i class="bi bi-trash"></i></a></td>
+							</tr>         
